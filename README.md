@@ -46,15 +46,16 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
----
+<!---
 
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=guptaarpita&show_icons=true&theme=radical)
 
-![Your Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=guptarpita&theme=radical)
+![Your Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=guptaarpita&theme=radical)
 
----
+
+--->
 
 ## 🚀 Most Used Languages
 
