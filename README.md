@@ -3,7 +3,7 @@
 🌟 **A passionate developer who loves turning ideas into reality.**  
 💻 I specialize in **Python**, **Java**, and **Web Development**, and I’m always exploring new technologies to expand my skill set.  
 🚀 I enjoy building projects that solve real-world problems and contribute to open-source communities.  
-🌱 Currently, I’m learning **Machine Learning** and **Cloud Computing** to take my skills to the next level.  
+🌱 Currently, I’m learning **Machine Learning** and **Artificial Intelligence** to take my skills to the next level.  
 🎯 My goal is to create impactful solutions that make a difference.  
 
 ---
@@ -50,7 +50,7 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=guptaarpita&show_icons=true&theme=radical)
 
 ![Your Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=guptarpita&theme=radical)
 
@@ -60,7 +60,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guptaarpita&layout=compact&theme=radical)
 
----
+<!---
 
 ## 🏆 Projects
 
@@ -76,13 +76,8 @@
 - **Description**: A brief description of your project.
 - **Tech Used**: HTML5, CSS3, JavaScript
 
----
+--->
 
-## 🌟 Contribution Graph
-
-![Contribution Graph](https://ghchart.rshah.org/guptarpita)
-
----
 
 ## 📫 Let's Connect!
 
