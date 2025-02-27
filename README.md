@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]! 
+# 👋 Hi, I'm Arpita Gupta! 
 
 🌟 **A passionate developer who loves turning ideas into reality.**  
 💻 I specialize in **Python**, **Java**, and **Web Development**, and I’m always exploring new technologies to expand my skill set.  
