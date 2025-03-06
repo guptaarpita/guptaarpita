@@ -85,7 +85,8 @@
 
 ## 📊 Contribution Graph
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=guptaarpita&theme=react-dark)
+![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guptaarpita&theme=github_dark)
+
 
 
 
