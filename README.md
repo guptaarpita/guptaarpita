@@ -83,6 +83,11 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guptaarpita&layout=compact&theme=radical)
 
+## 📊 Contribution Graph
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=guptaarpita&theme=react-dark)
+
+
 <!---
 
 ## 🏆 Projects
