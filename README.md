@@ -84,8 +84,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guptaarpita&layout=compact&theme=radical)
 
 ## 📊 Contribution Graph
+## 🐍 Contribution Snake — because why not
 
-![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guptaarpita&theme=github_dark)
+![Snake animation](https://raw.githubusercontent.com/guptaarpita/guptaarpita/output/github-contribution-grid-snake.svg)
+
 
 
 
