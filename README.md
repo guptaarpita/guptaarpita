@@ -279,7 +279,7 @@ funFact: "I build, break, learn, and build again 🚀"
   <a href="https://www.linkedin.com/in/arpita-gupta1/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" />
   </a>
-  <a href="https://arpitaguptaportfolio-plum.vercel.app/">
+  <a href="https://guptaarpita-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&style=flat-square" />
   </a>
   <a href="mailto:arpitagupta17448@gmail.com">
@@ -291,7 +291,7 @@ funFact: "I build, break, learn, and build again 🚀"
   <a href="https://leetcode.com/u/guptaarpita/">
     <img src="https://img.shields.io/badge/LeetCode-5B4638?style=for-the-badge&logo=leetcode&logoColor=white&style=flat-square" />
   </a>
-  <a href="https://codeforces.com/profile/arpitagupta">
+  <a href="https://codeforces.com/profile/arpita254">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&style=flat-square" />
   </a>
 </p>
